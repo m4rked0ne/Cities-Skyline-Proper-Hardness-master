@@ -23,7 +23,7 @@ namespace DifficultyMod
 
         internal static Configuration config;
         internal static string MOD_VERSION = "";
-        internal static bool DEBUG_LOG_ON = false;
+        internal static bool DEBUG_LOG_ON = false; 
 
         public string Name
         {
